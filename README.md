@@ -2,6 +2,7 @@
 ## centos7.8 安装 Broadcom BCM4312 芯片wifi驱动
 
 # 联想G450 安装后没有wifi驱动,网上找到的方案
+# 驱动和 patch文件 在 file目录
 
 参考
 https://programmer.help/blogs/install-broadcom-bcm4312-wireless-card-driver-on-centos-7.7.html
