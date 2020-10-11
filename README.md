@@ -97,4 +97,11 @@ done
 ```
 
 
+重启
+
+启动接口
+```
+ip link set <interface> up 
+```
+
 
